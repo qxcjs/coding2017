@@ -1,0 +1,7 @@
+.recommenders
+.metadata
+RemoteSystemsTempFiles
+JavaCourse/target
+JavaCourse/.settings
+JavaCourse/.classpath
+JavaCourse/.project
